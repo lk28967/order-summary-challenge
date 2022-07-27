@@ -174,8 +174,7 @@ footer p a:hover {
         justify-content: center;
         background-color: hsl(225, 100%, 94%);
         background-image: url('../images/pattern-background-desktop.svg');
-        background-repeat: no-repeat;
-        background-size: cover;
+        background-repeat: repeat-x;
     }
     main {
         display: flex;
